@@ -15,7 +15,7 @@ Key features:
 Pandas, NumPy, Sklearn, Seaborn, Support-Vector Machine, Logistic Regression, Random Forest, K-Nearest Neighbors.
 
 Results:
-Random Forest --> 79.12%
-Logistic Regression --> 79.06%
-SVC --> 78.83%
+Random Forest --> 79.12%,
+Logistic Regression --> 79.06%,
+SVC --> 78.83%,
 KNN --> 77.64%
